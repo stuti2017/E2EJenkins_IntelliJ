@@ -1,0 +1,635 @@
+2018-06-18 17:01:30,780 - LinkedinTest1 -INFO - Click on Login link!!
+2018-06-18 17:01:31,092 - LinkedinTest1 -INFO - Enter the email id
+2018-06-18 17:01:31,262 - LinkedinTest1 -INFO - Enter the password
+2018-06-18 17:01:38,542 - LinkedinTest1 -INFO - Click on submit button
+2018-06-18 17:01:38,542 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-06-18 17:01:38,542 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-06-18 17:01:38,550 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-06-18 17:01:39,112 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//webTitle_2018_06_18 582.png
+2018-06-18 17:01:39,440 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:06:50,435 - LinkedinTest1 -INFO - Click on Login link!!
+2018-06-18 17:06:50,531 - LinkedinTest1 -INFO - Enter the email id
+2018-06-18 17:06:50,607 - LinkedinTest1 -INFO - Enter the password
+2018-06-18 17:06:52,033 - LinkedinTest1 -INFO - Click on submit button
+2018-06-18 17:06:52,033 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-06-18 17:06:52,036 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-06-18 17:06:52,046 - EuroStarTest1 -INFO - Actual Title: OpenMRS - Home
+2018-06-18 17:06:52,465 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//webTitle_2018_06_18 083.png
+2018-06-18 17:06:52,626 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:14:13,547 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:14:13,662 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:14:13,735 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:14:15,110 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:14:15,110 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-06-18 17:14:15,113 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-06-18 17:14:15,120 - EuroStarTest1 -INFO - Actual Title: OpenMRS - Home
+2018-06-18 17:14:15,542 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//webTitle_2018_06_18 158.png
+2018-06-18 17:14:15,660 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:14:54,474 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:14:54,552 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:14:54,616 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:14:55,978 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:14:55,981 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-06-18 17:14:55,981 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-06-18 17:14:55,991 - EuroStarTest1 -INFO - Actual Title: OpenMRS - Home
+2018-06-18 17:14:56,391 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//webTitle_2018_06_18 023.png
+2018-06-18 17:14:56,567 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:16:36,437 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:16:36,515 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:16:36,582 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:16:37,817 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:16:37,817 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-06-18 17:16:37,817 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-06-18 17:16:37,827 - EuroStarTest1 -INFO - Actual Title: OpenMRS - Home
+2018-06-18 17:16:38,223 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//webTitle_2018_06_18 852.png
+2018-06-18 17:16:38,351 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:17:30,252 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:17:30,367 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:17:30,473 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:17:31,860 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:17:33,140 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 17:17:39,922 - EuroStarTest1 -INFO - Expected Title: OpenMRS - Home
+2018-06-18 17:17:44,583 - EuroStarTest1 -INFO - Actual Title: OpenMRS - Home
+2018-06-18 17:17:54,323 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-06-18 17:18:24,503 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-18 17:18:24,722 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:19:22,849 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:19:22,989 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:19:23,083 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:19:24,418 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:19:24,418 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 17:19:24,418 - EuroStarTest1 -INFO - Expected Title: OpenMRS - Home
+2018-06-18 17:19:24,430 - EuroStarTest1 -INFO - Actual Title: OpenMRS - Home
+2018-06-18 17:19:24,433 - EuroStarTest1 -INFO - Expected matched with Actual so test is passed!!
+2018-06-18 17:19:24,810 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-18 17:19:24,921 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:28:28,588 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-18 17:28:28,718 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:29:04,454 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:29:04,519 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:29:04,605 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:29:05,851 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:29:05,851 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 17:29:16,326 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//clicknTest_2018_06_18 960.png
+2018-06-18 17:29:16,435 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:30:08,260 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:30:08,338 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:30:08,414 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:30:09,809 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:30:09,809 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 17:30:15,828 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-18 17:30:18,002 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:39:38,105 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:39:38,190 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:39:38,267 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:39:39,535 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:39:39,535 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 17:39:54,872 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-18 17:39:55,015 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-18 17:42:11,668 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 17:42:11,737 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 17:42:11,823 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 17:42:13,158 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 17:42:13,158 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 18:04:54,997 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 18:04:55,087 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 18:04:55,185 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 18:04:56,667 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 18:04:56,667 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 18:19:38,029 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-18 18:19:38,107 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-18 18:19:38,165 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-18 18:19:39,495 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-18 18:19:39,498 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-18 18:19:44,424 - OpenMRSLoginPage -INFO - true
+2018-06-18 18:19:44,424 - OpenMRSLoginPage -INFO - Gynecology present in App Type
+2018-06-18 18:19:44,809 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-18 18:19:44,950 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 13:42:09,326 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 13:42:09,411 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 13:42:09,488 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 13:42:09,551 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 13:42:09,552 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 13:42:51,088 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 13:42:51,162 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 13:42:51,236 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 13:42:51,302 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 13:42:51,302 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 13:43:01,755 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//getText_2018_06_19 416.png
+2018-06-19 13:43:01,863 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 13:57:09,742 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 13:57:09,817 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 13:57:09,885 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 13:57:09,923 - EuroStarTest1 -ERROR - org.openqa.selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'U6016926-TPL-A', ip: '10.30.211.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\u6016926\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.87, webStorageEnabled: true}
+Session ID: 33aa5f6c3d34fd56c97e5bf3f21e548c
+*** Element info: {Using=css selector, value=#Inpatient Ward}
+2018-06-19 13:57:20,302 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//getText_2018_06_19 976.png
+2018-06-19 13:57:20,447 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 13:58:43,940 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 13:58:44,004 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 13:58:44,069 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 13:58:46,020 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 13:58:56,067 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#appointmentschedulingui-manageAppointmentTypes-app"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'U6016926-TPL-A', ip: '10.30.211.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\u6016926\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.87, webStorageEnabled: true}
+Session ID: 659a14321b24c32b2f829478721ef2bb
+*** Element info: {Using=css selector, value=#appointmentschedulingui-manageAppointmentTypes-app}
+2018-06-19 13:59:06,440 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//getText_2018_06_19 142.png
+2018-06-19 13:59:08,631 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 14:01:53,918 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 14:01:53,990 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 14:01:54,062 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 14:01:55,443 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 14:01:56,481 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 14:02:06,920 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//getText_2018_06_19 563.png
+2018-06-19 14:02:07,002 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 14:05:42,342 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 14:05:42,414 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 14:05:42,486 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 14:05:44,761 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 14:05:47,647 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 14:05:58,201 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//getText_2018_06_19 714.png
+2018-06-19 14:05:58,332 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 14:07:24,505 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 14:07:24,575 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 14:07:24,648 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 14:07:26,262 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 14:07:29,181 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 14:38:32,189 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 14:38:32,279 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 14:38:32,384 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 14:38:35,408 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 14:38:38,569 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 14:41:13,859 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 14:41:13,929 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 14:41:14,001 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 14:41:16,181 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 14:41:19,041 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 14:41:19,666 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-19 14:41:19,768 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 14:45:30,368 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 14:45:30,443 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 14:45:30,518 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 14:45:32,010 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 14:45:34,808 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 14:45:35,048 - OpenMRSLoginPage -INFO - Service Starts with G = 4
+2018-06-19 14:45:35,400 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-19 14:45:35,510 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 14:54:39,099 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 14:54:39,174 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 14:54:39,259 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 14:54:41,869 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 14:54:44,889 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 14:54:45,531 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-19 14:54:45,755 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 15:02:08,934 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 15:02:09,011 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 15:02:09,086 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 15:02:10,598 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 15:02:14,405 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 15:02:15,020 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//findServiceVerify_2018_06_19 665.png
+2018-06-19 15:02:15,122 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 15:03:24,175 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 15:03:24,252 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 15:03:24,332 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 15:03:26,017 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 15:03:29,452 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 15:03:30,069 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//findServiceVerify_2018_06_19 717.png
+2018-06-19 15:03:30,170 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 15:05:35,231 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 15:05:35,316 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 15:05:35,396 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 15:05:36,888 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 15:05:39,840 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 15:05:40,443 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-19 15:05:40,530 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 15:21:14,284 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 15:21:14,402 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 15:21:14,497 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 15:21:17,152 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 15:21:20,109 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 15:21:20,724 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//findServiceVerify_2018_06_19 367.png
+2018-06-19 15:21:21,113 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 15:33:53,174 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 15:33:53,324 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 15:33:53,409 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 15:33:55,569 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 15:33:59,034 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 15:33:59,494 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//findServiceVerify_2018_06_19 122.png
+2018-06-19 15:33:59,977 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-19 15:35:46,442 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-19 15:35:46,547 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-19 15:35:46,627 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-19 15:35:48,132 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-19 15:35:51,064 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-19 15:35:51,512 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//findServiceVerify_2018_06_19 149.png
+2018-06-19 15:35:51,641 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 09:49:50,833 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 09:49:50,920 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 09:49:50,993 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 09:49:52,630 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 09:49:55,793 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 09:49:56,403 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 09:49:56,518 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 09:54:16,431 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 09:54:16,501 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 09:54:16,574 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 09:54:18,124 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 09:54:20,689 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 09:54:21,269 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 09:54:21,429 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 09:57:56,907 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 09:57:56,980 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 09:57:57,050 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 09:57:59,112 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 09:58:01,897 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 09:58:03,337 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//findServiceVerify_2018_06_20 967.png
+2018-06-20 09:58:03,505 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 09:58:37,763 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 09:58:37,833 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 09:58:37,916 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 09:58:39,466 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 09:58:41,983 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 09:58:43,326 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 09:58:43,416 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 10:05:17,663 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 10:05:17,743 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 10:05:17,813 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 10:05:19,323 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 10:05:22,881 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 10:05:23,491 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 10:05:23,571 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 10:06:16,434 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 10:06:16,514 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 10:06:16,601 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 10:06:17,996 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 10:06:21,359 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 10:06:21,956 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 10:06:22,031 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 10:12:57,799 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 10:12:57,872 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 10:12:57,972 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 10:12:59,399 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 10:13:02,294 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 10:13:02,869 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 10:13:03,004 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 11:53:50,822 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 11:53:50,947 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 11:53:51,024 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 11:53:52,581 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 11:53:56,677 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 11:53:58,082 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 11:53:58,248 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 12:55:41,003 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 12:55:41,070 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 12:55:41,137 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 12:55:42,473 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 12:55:44,874 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 12:55:46,338 - EuroStarTest1 -ERROR - Error screshot location: C:\IntelliJProjects//Test-ScreenShots//findServiceVerify_2018_06_20 977.png
+2018-06-20 12:55:46,538 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:09:30,680 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:09:30,746 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:09:30,825 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:09:32,222 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:09:34,837 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:09:35,063 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:09:35,213 - OpenMRSLoginPage -INFO - Work Order Gynecology Claimed By: 10
+2018-06-20 13:09:35,594 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:09:35,682 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:11:27,605 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:11:27,684 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:11:27,753 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:11:29,206 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:11:31,626 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:11:31,883 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:11:32,285 - OpenMRSLoginPage -INFO - Work Order Neurology Claimed By: 15
+2018-06-20 13:11:32,669 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:11:32,819 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:26:54,581 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:26:54,649 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:26:54,721 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:26:56,173 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:26:58,556 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:26:58,778 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:27:09,190 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:27:09,396 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:28:58,856 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:28:58,920 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:28:58,985 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:29:00,300 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:29:02,810 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:29:03,047 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:29:13,441 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:29:13,535 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:35:28,209 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:35:28,287 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:35:28,350 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:35:29,753 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:35:32,634 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:35:32,895 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:35:43,296 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:35:43,428 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:37:14,365 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:37:14,444 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:37:14,517 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:37:16,070 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:37:18,499 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:37:18,745 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:37:19,176 - OpenMRSLoginPage -INFO - Work Order Neurology Claimed By: 15
+2018-06-20 13:37:19,540 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:37:19,626 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:41:02,343 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:41:02,413 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:41:02,485 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:41:03,860 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:41:06,340 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:41:06,587 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:41:07,056 - OpenMRSLoginPage -INFO - Work Order Neurology Claimed By: 15
+2018-06-20 13:41:07,437 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:41:07,515 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 13:42:43,202 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 13:42:43,290 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 13:42:43,362 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 13:42:44,712 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 13:42:47,282 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 13:42:47,521 - OpenMRSLoginPage -INFO - Checking for the work order ID from the current work list view in Work Stream Queue
+2018-06-20 13:42:48,009 - OpenMRSLoginPage -INFO - Work Order Neurology Claimed By: 15
+2018-06-20 13:42:48,373 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 13:42:48,567 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-20 23:38:58,515 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-20 23:38:58,570 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-20 23:38:58,645 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-20 23:39:00,077 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-20 23:39:02,762 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-20 23:39:03,185 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-20 23:39:03,267 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-21 10:22:18,938 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-21 10:22:19,011 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-06-21 10:22:19,083 - OpenMRSLoginPage -INFO - Enter the password
+2018-06-21 10:22:20,501 - OpenMRSLoginPage -INFO - Click on submit button
+2018-06-21 10:22:23,164 - EuroStarTest1 -INFO - Launched OpenMRS Application!!
+2018-06-21 10:22:23,581 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-21 10:22:23,729 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-22 17:09:48,273 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-06-22 17:09:58,327 - EuroStarTest1 -ERROR - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'U6016926-TPL-A', ip: '10.30.195.54', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\u6016926\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.87, webStorageEnabled: true}
+Session ID: e6203d7b687da46a2080f296a8b1a8c2
+*** Element info: {Using=css selector, value=#username}
+2018-06-22 17:10:08,772 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-22 17:10:08,854 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-22 17:58:14,527 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-22 17:58:16,896 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-22 18:06:38,012 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-22 18:06:40,293 - EuroStarTest1 -INFO - Close the browser!!
+2018-06-22 18:43:53,261 - EuroStarTest1 -INFO - Result Pass!!
+2018-06-22 18:43:55,687 - EuroStarTest1 -INFO - Close the browser!!
+2018-07-11 13:38:20,659 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 13:38:20,789 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 13:38:20,904 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 13:38:22,527 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 13:39:56,772 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 13:39:56,897 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 13:39:57,007 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 13:39:58,520 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 13:44:16,997 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 13:44:17,067 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 13:44:17,134 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 13:44:52,888 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 13:44:52,963 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 13:44:53,031 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 13:44:54,464 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 13:45:37,568 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 13:45:37,638 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 13:45:37,710 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 13:45:39,222 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 14:00:55,757 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 14:00:55,825 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 14:00:55,900 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 14:00:57,265 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 14:01:31,593 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 14:01:31,671 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 14:01:31,736 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 14:01:33,156 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 14:02:14,366 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 14:02:14,449 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 14:02:14,516 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 14:02:15,954 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 14:02:57,449 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 14:02:57,521 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 14:02:57,586 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 14:02:59,008 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 14:04:17,372 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 14:04:17,467 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 14:04:17,554 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 14:04:19,064 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 14:05:42,691 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 14:05:42,761 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 14:05:42,844 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 14:05:44,278 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 14:07:40,076 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 14:07:40,148 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 14:07:40,213 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 14:07:41,921 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 15:06:12,630 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:06:56,123 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:08:04,333 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:12:21,425 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:14:34,588 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:14:34,660 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 15:14:34,735 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 15:14:36,238 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 15:19:09,239 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:19:51,015 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:21:54,481 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:23:38,319 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:24:59,807 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:28:30,603 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:28:55,623 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:37:59,767 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:38:24,394 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:38:24,467 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 15:38:24,539 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 15:38:26,052 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 15:39:08,176 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:39:29,331 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 15:39:29,391 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 15:39:29,459 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 15:39:30,897 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 19:40:45,330 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 19:40:45,402 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 19:40:45,469 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 19:40:47,008 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 20:24:00,603 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 20:24:00,680 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 20:24:00,748 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 20:24:02,250 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 20:52:50,746 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 20:52:50,811 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 20:52:50,881 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 20:52:52,316 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-11 20:55:07,038 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-11 20:55:07,111 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-11 20:55:07,181 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-11 20:55:08,787 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 09:39:32,381 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:40:40,701 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:40:40,769 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 09:40:40,833 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 09:40:42,291 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 09:41:19,640 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:41:19,723 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 09:41:19,784 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 09:41:21,324 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 09:41:31,105 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:41:31,169 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 09:41:31,237 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 09:41:32,938 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 09:43:38,192 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:43:38,259 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 09:43:38,332 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 09:43:39,827 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 09:43:49,689 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:43:49,745 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 09:43:49,837 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 09:43:51,241 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 09:53:43,681 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:53:43,751 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 09:53:43,816 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 09:53:45,247 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 09:53:56,138 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 09:53:56,196 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 09:53:56,264 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 09:53:57,904 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 10:03:22,677 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 10:03:22,770 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 10:03:22,836 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 10:03:24,355 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 10:03:33,136 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 10:03:33,206 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 10:03:33,272 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 10:03:34,659 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 10:05:11,789 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 10:05:11,863 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 10:05:11,927 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 10:05:13,395 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 10:05:23,291 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 10:05:23,358 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 10:05:23,433 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 10:05:24,870 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 10:19:47,769 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 10:19:47,841 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 10:19:47,902 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 10:19:49,313 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 10:20:00,173 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 10:20:00,231 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 10:20:00,305 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 10:20:01,730 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:41:16,349 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:41:16,415 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:41:16,481 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:41:17,883 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:41:27,487 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:41:27,547 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:41:27,613 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:41:29,222 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:45:02,974 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:45:03,041 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:45:03,112 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:45:04,654 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:45:15,040 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:45:15,100 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:45:15,166 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:45:16,556 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:49:45,983 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:49:46,053 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:49:46,120 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:49:48,134 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:50:00,009 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:50:00,070 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:50:00,154 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:50:01,743 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:50:29,788 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:50:29,868 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:50:29,957 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:50:31,964 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:50:44,987 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:50:45,046 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:50:45,113 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:50:46,610 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:59:26,152 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:59:26,228 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:59:26,296 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:59:31,257 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-13 11:59:45,120 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-13 11:59:45,186 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-13 11:59:45,254 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-13 11:59:46,701 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-26 10:21:06,327 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-26 10:21:06,452 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-26 10:21:06,590 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-26 10:21:08,130 - OpenMRSLoginPage -INFO - Click on submit button
+2018-07-26 10:21:18,157 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-07-26 10:21:18,257 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-07-26 10:21:18,360 - OpenMRSLoginPage -INFO - Enter the password
+2018-07-26 10:21:19,887 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-03 23:13:54,263 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-03 23:13:54,330 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-03 23:13:54,396 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-03 23:13:55,797 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-03 23:14:05,777 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-03 23:14:05,841 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-03 23:14:05,909 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-03 23:14:07,375 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-07 19:12:02,471 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-07 19:12:02,553 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-07 19:12:02,617 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-07 19:12:04,149 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-07 19:12:16,504 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-07 19:12:16,607 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-07 19:12:16,695 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-07 19:12:18,198 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-23 09:46:26,809 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-23 09:46:26,894 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-23 09:46:26,974 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-23 09:46:28,934 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-23 09:46:44,145 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-23 09:46:44,267 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-23 09:46:44,372 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-23 09:46:46,207 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-23 10:27:37,385 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-23 10:27:37,460 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-23 10:27:37,530 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-23 10:27:39,237 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-23 10:27:51,301 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-23 10:27:51,406 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-23 10:27:51,493 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-23 10:27:52,973 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-23 10:29:37,403 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-23 10:29:37,471 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-23 10:29:37,546 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-23 10:29:39,158 - OpenMRSLoginPage -INFO - Click on submit button
+2018-08-23 10:29:51,188 - OpenMRSLoginPage -INFO - Click on Login link!!
+2018-08-23 10:29:51,283 - OpenMRSLoginPage -INFO - Enter the user name id
+2018-08-23 10:29:51,395 - OpenMRSLoginPage -INFO - Enter the password
+2018-08-23 10:29:53,200 - OpenMRSLoginPage -INFO - Click on submit button
