@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e674384-93f4-4541-9634-f6b6832fbe52" name="Default" comment="">
+    <list default="true" id="2e674384-93f4-4541-9634-f6b6832fbe52" name="Default" comment="cucumber-reporting maven added">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__com_googlecode_owasp_java_html_sanitizer_owasp_java_html_sanitizer_20180219_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__net_lingala_zip4j_zip4j_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__net_masterthought_cucumber_reporting_3_20_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__velocity_tools_velocity_tools_1_4.xml" />
+      <change beforePath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change beforePath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
       <change beforePath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../E2EAutoJenkins/E2EAutoJenkins.iml" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/E2EAutoJenkins.iml" />
       <change beforePath="$PROJECT_DIR$/../E2EAutoJenkins/pom.xml" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../E2EAutoJenkins/src/testcode/testrunner/Regression.java" afterPath="$PROJECT_DIR$/../E2EAutoJenkins/src/testcode/testrunner/Regression.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,14 +45,19 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../E2EAutoJenkins/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="143" column="60" lean-forward="false" selection-start-line="143" selection-start-column="60" selection-end-line="143" selection-end-column="60" />
+            <state relative-caret-position="546">
+              <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cucumber-reporting</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../E2EAutoJenkins" />
@@ -145,11 +162,6 @@
             <path>
               <item name="E2EAutoJenkins" type="b2602c69:ProjectViewProjectNode" />
               <item name="E2EAutoJenkins" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EAutoJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EAutoJenkins" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -177,30 +189,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="testcode" type="462c0819:PsiDirectoryNode" />
               <item name="testrunner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EAutoJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EAutoJenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EAutoJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EAutoJenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EAutoJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EAutoJenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EAutoJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EAutoJenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -524,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535436381548</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="cucumber file updated2">
+      <created>1535438228896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535438228896</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -626,7 +621,9 @@
     <MESSAGE value="file updated" />
     <MESSAGE value="cucumber file updated" />
     <MESSAGE value="cucumber file updated1" />
-    <option name="LAST_COMMIT_MESSAGE" value="cucumber file updated1" />
+    <MESSAGE value="cucumber file updated2" />
+    <MESSAGE value="cucumber-reporting maven added" />
+    <option name="LAST_COMMIT_MESSAGE" value="cucumber-reporting maven added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -893,8 +890,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../E2EAutoJenkins/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="143" column="60" lean-forward="false" selection-start-line="143" selection-start-column="60" selection-end-line="143" selection-end-column="60" />
+        <state relative-caret-position="546">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding />
         </state>
       </provider>
