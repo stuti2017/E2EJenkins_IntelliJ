@@ -1,5 +1,6 @@
 package testcode.testrunner;
-
+import cucumber.api.testng.AbstractTestNGCucumberTests;
+import org.testng.annotations.*;
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
@@ -10,8 +11,9 @@ import org.junit.runner.RunWith;
                 ,
         tags = "@automated",
         format = {"pretty", "html:target/cukes", "json:target/Jets12361.json"})
-public class TestRunnerMRS {
+
+
+@Test
+public class TestRunnerMRS extends AbstractTestNGCucumberTests {
 
 }
-    //C:\E2EAutoJenkins\src\test\resources\features\mrs
-//C:\E2EAutoJenkins\src\test\resources\features\mrhHome.feature
