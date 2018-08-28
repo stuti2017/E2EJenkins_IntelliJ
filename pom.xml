@@ -148,7 +148,7 @@
                 <version>2.22.0</version>
                 <configuration>
                     <forkCount>1</forkCount>
-                    <includes>testcode.testrunner.Regression</includes>
+                    <includes>testcode.testrunner.RunnerTest</includes>
             <!--        <suiteXmlFiles>
                         &lt;!&ndash; TestNG suite XML files &ndash;&gt;
                         <suiteXmlFile>testng.xml</suiteXmlFile>

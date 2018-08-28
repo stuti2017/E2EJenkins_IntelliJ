@@ -7,12 +7,6 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(
-        features = { "src/test/resources/features/" },
-        glue = "", plugin = {
-        "html:target/CucumberReports", "json:target/cucumber.json"
-         })
-
-public class Regression {
-
+@CucumberOptions(plugin =  {"pretty","html:target/html", "json:cucumber.json"})
+public class RunnerTest {
 }
