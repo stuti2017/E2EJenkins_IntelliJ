@@ -1,18 +1,17 @@
-package testcode;
-
+package testcode.TestScripts;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class TestNG_1 {
+public class TestNG_2 {
     public String baseUrl = "https://demo.openmrs.org/openmrs/login.htm";
     String driverPath = "C:\\ChromeDriver.exe";
     public WebDriver driver ; 
     
 
      
-     @BeforeTest                            //Jumbled
+     @BeforeTest
       public void launchBrowser() {
           System.out.println("launching Chrome browser"); 
           System.setProperty("webdriver.chrome.driver", driverPath);
@@ -20,14 +19,14 @@ public class TestNG_1 {
           driver.get(baseUrl);
       }
      
-      @Test                                //  Jumbled
+      @Test
       public void verifyHomepageTitle() {
           String expectedTitle = "Login";
           String actualTitle = driver.getTitle();
           Assert.assertEquals(actualTitle, expectedTitle);
      }
       
-      @AfterTest                            //Jumbled
+      @AfterTest
       public void terminateBrowser(){
           driver.close();
       }
